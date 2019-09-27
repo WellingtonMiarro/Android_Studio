@@ -17,7 +17,7 @@ public class Calcular_Prestacoes extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_calcular__prestacoes);
 
-        setTitle(R.string.principal_activity_calcular_prestacoes);
+        setTitle("Calcular Prestações");
     }
 
     public void calcularPrestacoes(View view) {
