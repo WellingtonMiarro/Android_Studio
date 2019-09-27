@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txv_principal_activity_calcular_prestacoes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="#37966F"
+        android:onClick="calcularPrestacoes"
+        android:padding="10dp"
+        android:text="@string/principal_activity_calcular_prestacoes"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txv_principal_activity_valor_futuro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="#37966F"
+        android:onClick="valorFuturo"
+        android:padding="10dp"
+        android:text="@string/principal_activity_valor_futuro"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txv_principal_activity_sobre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="#37966F"
+        android:onClick="sobre"
+        android:padding="10dp"
+        android:text="@string/principal_activity_sobre"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+</LinearLayout>

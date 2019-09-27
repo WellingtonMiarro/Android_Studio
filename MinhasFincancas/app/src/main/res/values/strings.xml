@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Minhas Fincancas</string>
+
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpar">Limpar</string>
+
+
+    <string name="sobre_title">Aplicativo Minhas Finanças</string>
+    <string name="sobre_descricao">Este aplicativo é baseado na Calculadora do Cidadão fornecida
+        pelo BCB - Banco Central do Brasil. \n\nAs metodologias dos cálculos podem ser acessadas
+        diretamente no site. \n\nO objetivo é ajudar as pessoas a melhorar  sua educação financeira.</string>
+</resources>
