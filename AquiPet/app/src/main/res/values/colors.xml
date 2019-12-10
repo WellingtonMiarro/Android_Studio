@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Cores do ListView-->
+    <color name="corLinha">#256EFF</color>
+    <color name="corFundo">#001F54</color>
+    <color name="corTexto">#FFFFFF</color>
+
+    <!-- Cores do ListView-->
+    <color name="corAbertura">#0091FF</color>
+    <color name="cor1">#00FFE4</color>
+
+
+    <color name="cor2">#242424</color>
+
+
+</resources>

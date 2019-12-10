@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "332857339860",
+    "firebase_url": "https://aquipet-54fe7.firebaseio.com",
+    "project_id": "aquipet-54fe7",
+    "storage_bucket": "aquipet-54fe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332857339860:android:1f2a666e7c594a748cf041",
+        "android_client_info": {
+          "package_name": "com.example.aquipet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332857339860-2htjfji7o4746d4gnktdua7e2ho1fscp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aquipet",
+            "certificate_hash": "4b03ece04665811da07d39a2dd3d62231e798eae"
+          }
+        },
+        {
+          "client_id": "332857339860-sl79g3nfsui61a8sttli5ai3b1tni3dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC773A-PzVlA9WE0wwPqfCDvIbiK_LPtJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332857339860-sl79g3nfsui61a8sttli5ai3b1tni3dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

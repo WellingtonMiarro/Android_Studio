@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AquiPet</string>
+
+
+    <!-- STRING dos campos -->
+    <string name="campo_especie">Espécie</string>
+    <string name="campo_nome_pet">Nome do Pet</string>
+    <string name="campo_raca">Raça</string>
+    <string name="campo_propretario">Propetário</string>
+
+    <!-- STRING da LisrView -->
+    <string name="campo_Lista">🐾🐾 Lista de Pets Cadastrados 🐾🐾</string>
+
+
+    <!-- STRING da Splash -->Seja Bem vindo ao App!!!
+    <string name="campo_nomeApp"> 🐾AquiPet🐾</string>
+    <string name="campo_BoasVindas">🐾🐾Seja Bem vindo ao App🐾🐾</string>
+
+
+</resources>
